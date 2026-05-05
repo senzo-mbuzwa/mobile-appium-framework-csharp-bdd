@@ -104,5 +104,5 @@ bin/Debug/net8.0/Reports/ExtentReport.html
 
 ## Author
 
-**Senzo Mbuzwa**
+**Senzo Mbuzwa**  
 Test Automation Engineer
